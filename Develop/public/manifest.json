@@ -1,0 +1,23 @@
+{
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "name": "Newsy app",
+    "short_name": "Newsy",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that allows you to view different news articles and save your favorites.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+  }
